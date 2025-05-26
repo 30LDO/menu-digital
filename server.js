@@ -25,7 +25,7 @@ function buscarPlatillo(categoria, id) {
 
 app.get('/menu', (req, res) => {
   res.json({
-    descripcion: 'Menu digital de restaurante ficticio',  // Cambiado aquí
+    descripcion: 'Menu digital de restaurante ficticio', 
     categorias: ['Entradas','Platos fuertes','Postres','Bebidas']
   });
 });
