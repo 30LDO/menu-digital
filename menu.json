@@ -1,0 +1,22 @@
+{
+    "entradas": [
+      { "id": 1, "nombre": "Nachos"},
+      { "id": 2, "nombre": "Alitas"},
+      { "id": 3, "nombre": "Dedos de queso"}
+    ],
+    "platosFuertes": [
+      { "id": 1, "nombre": "Parrillada"},
+      { "id": 2, "nombre": "Pasta"},
+      { "id": 3, "nombre": "Estofado"}
+    ],
+    "postres": [
+      { "id": 1, "nombre": "Tiramisu"},
+      { "id": 2, "nombre": "Tres leches"},
+      { "id": 3, "nombre": "Pastel de zanahoria"}
+    ],
+    "bebidas": [
+      { "id": 1, "nombre": "Jugo natural"},
+      { "id": 2, "nombre": "Gaseosa"},
+      { "id": 3, "nombre": "Agua pura"}
+    ]
+}
